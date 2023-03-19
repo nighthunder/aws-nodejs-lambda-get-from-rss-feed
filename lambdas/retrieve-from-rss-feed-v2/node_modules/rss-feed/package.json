@@ -1,0 +1,18 @@
+{
+  "name": "rss-feed",
+  "version": "0.0.0",
+  "description": "learning exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calantha1/rss-feed.git"
+  },
+  "author": "Calantha Coulton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calantha1/rss-feed/issues"
+  }
+}
