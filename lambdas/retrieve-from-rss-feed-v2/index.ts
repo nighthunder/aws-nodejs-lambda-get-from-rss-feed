@@ -24,8 +24,7 @@ export const handler = async(event: any) => {
         statusCode: 200,
         body: JSON.stringify(rssFeed),
     };
-    // return response;
-    console.log("response", response)
+    return response;
 };
 
 /* (async () => {

@@ -39,8 +39,7 @@ const handler = (event) => __awaiter(void 0, void 0, void 0, function* () {
         statusCode: 200,
         body: JSON.stringify(rssFeed),
     };
-    // return response;
-    console.log("response", response);
+    return response;
 });
 exports.handler = handler;
 /* (async () => {
